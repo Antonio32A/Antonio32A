@@ -19,11 +19,10 @@ I make Discord bots, ChatTriggers modules, Minecraft mods and more random stuff 
 [neppy](https://neppy.antonio32a.com) - Hypixel ingame chat bot, by Antonio32A and Desco.
 
 [![pin0](https://github-readme-stats.vercel.app/api/pin/?username=Antonio32A&repo=DungeonUtilities&theme=tokyonight)](https://www.chattriggers.com/modules/v/DungeonUtilities)
-[![pin0](https://github-readme-stats.vercel.app/api/pin/?username=Antonio32A&repo=SlayerUtilities&theme=tokyonight)](https://github.com/Antonio32A/SlayerUtilities)
-
+[![pin0](https://github-readme-stats.vercel.app/api/pin/?username=Antonio32A&repo=PitSandbox&theme=tokyonight)](https://github.com/Antonio32A/PitSandbox)
 
 [![pin0](https://github-readme-stats.vercel.app/api/pin/?username=Antonio32A&repo=FFF&theme=tokyonight)](https://github.com/Antonio32A/FFF)
 [![pin0](https://github-readme-stats.vercel.app/api/pin/?username=tempus-dev&repo=flux-discordbot&theme=tokyonight)](https://github.com/tempus-dev/flux-discordbot)
 
-[![pin0](https://github-readme-stats.vercel.app/api/pin/?username=Antonio32A&repo=PitSandbox&theme=tokyonight)](https://github.com/Antonio32A/PitSandbox)
+[![pin0](https://github-readme-stats.vercel.app/api/pin/?username=Antonio32A&repo=SlayerUtilities&theme=tokyonight)](https://github.com/Antonio32A/SlayerUtilities)
 [![pin0](https://github-readme-stats.vercel.app/api/pin/?username=Antonio32A&repo=copy-role-color&theme=tokyonight)](https://github.com/Antonio32A/copy-role-color)
