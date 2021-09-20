@@ -1,8 +1,8 @@
 ## Hey there, I'm Antonio32A
-I make Discord bots, ChatTriggers modules, Minecraft mods and more random stuff in JavaScript, Python and Java.
+I make Discord bots, ChatTriggers modules, Minecraft mods and more random stuff in JavaScript, Python, Java and Kotlin.
 
 ### Contact
-`~@antonio32a.com` or `python32a@gmail.com`
+`~@antonio32a.com`
 
 [<img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>](https://twitter.com/antonio32a_)
 [<img src="https://img.icons8.com/color/48/000000/discord-logo.png"/>](https://discord.com/invite/knjSZSC)
